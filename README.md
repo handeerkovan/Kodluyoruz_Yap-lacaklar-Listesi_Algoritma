@@ -1,2 +1,2 @@
-# Kodluyoruz_Yap-lacaklar-Listesi_Algoritma
+# Kodluyoruz_Yapilacaklar_Listesi_Algoritma
 Kodluyoruz_Frontend Patikası_JS Eğitimi_Odev 2
